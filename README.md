@@ -10,9 +10,12 @@ I am currently working on improving my skills in C++, and Web Design by getting 
 The university I am studying at is a correspondence which means while I have a sylabus to follow, I have had to teach myself everything for the courses (effectively self-taught with a degree at the end.)
 
 #### Experience and Knowledge
-1 year experience in Web Design and marketing
-1 and a half years experience in game design and 3D animation
-2 years experience in graphic design 
+1 year experience in Web Design and marketing.
+
+1 and a half years experience in game design and 3D animation.
+
+2 years experience in graphic design.
+
 3 years experience in software development (from studying at the University of South Africa.)
 
 ##### Skills
