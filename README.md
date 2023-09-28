@@ -28,8 +28,7 @@ The university I am studying at is a correspondence which means while I have a s
 #### Tools
 The current tools I am using are:
 
-
-![clion-1-logo-png-transparent](https://github.com/GrahamCHill/GrahamCHill/assets/49126644/108d580c-c818-460e-a16c-d264d2ff7567)
+![clion-1-logo-png-transparent](https://github.com/GrahamCHill/GrahamCHill/assets/49126644/b493ec15-2f85-45c5-9e42-ef2f03cc1539)
 
 
 #### More about me
