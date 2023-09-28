@@ -25,11 +25,6 @@ The university I am studying at is a correspondence which means while I have a s
 4. Web design
 5. Team communication
 
-#### Tools
-The current tools I am using are:
-
-[![clion logo](https://github.com/GrahamCHill/GrahamCHill/assets/49126644/b493ec15-2f85-45c5-9e42-ef2f03cc1539)](https://www.jetbrains.com/clion/)
-
 
 #### More about me
 
@@ -44,24 +39,3 @@ When I upload them, I will place them below.
 
 #### How to reach me
 Curenlty I am not reachable as I have end of year exams, but the best way to contact me is via email.
-
-#### Fun Fact
-My first and last name are shared with the middle and last name of deceased famous British f1 driver Norman Graham Hill.
-
-
-<!--
-**GrahamCHill/GrahamCHill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1>Graham Hill</h1>
-<h2>About me</h2>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
