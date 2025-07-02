@@ -1,7 +1,7 @@
 # 💫 About Me:
 <!-- Wrote this and jazzed it up with ChatGPT, think it needs a better editor... -->
 I’m a Data Scientist and Software Developer with a degree in Applied Mathematics and Computer Science. I'm currently pursuing postgraduate qualifications in both fields.
-Outside of my professional work, I enjoy building games and applications using C++ and Vulkan, often hosted on my own private server infrastructure.
+Outside of my professional work, I enjoy building games and applications using C++ and Vulkan, as well as building my own web apps often hosted on my own private server infrastructure.
 
 I'm fluent in two languages and learning a third. I hold dual citizenship in the United Kingdom and South Africa, giving me a unique international perspective.
 
