@@ -1,11 +1,11 @@
 # 💫 About Me:
 <!-- Wrote this and jazzed it up with ChatGPT, think it needs a better editor... -->
-I’m a Data Scientist and Software Developer with a degree in Applied Mathematics and Computer Science. I'm currently pursuing postgraduate qualifications in both fields.
+I’m an entry level Data Scientist and Software Developer in my free time with a degree in Applied Mathematics and Computer Science. I'm currently pursuing postgraduate qualifications.
 Outside of my professional work, I enjoy building games and applications using C++ and Vulkan, as well as building my own web apps often hosted on my own private server infrastructure.
 
-I'm fluent in two languages and learning a third. I hold dual citizenship in the United Kingdom and South Africa, giving me a unique international perspective.
+I'm fluent in two languages and learning a third. I hold dual citizenship in the United Kingdom and South Africa.
 
-Earlier in my career, I worked as a web designer and social media marketer, which helped shape my aesthetic and communication skills - traits I continue to bring into both software and data projects.
+Earlier in my career, I worked as a web designer and social media marketer, which helped me learn about both clients, and project development.
 
 
 ## 🌐 Socials:
