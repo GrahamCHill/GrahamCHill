@@ -1,11 +1,12 @@
 # 💫 About Me:
 <!-- Wrote this and jazzed it up with ChatGPT, think it needs a better editor... -->
-I’m a Data Scientist and Software Developer in my free time with a degree in Applied Mathematics and Computer Science. I'm currently pursuing postgraduate qualifications (cuurently a postgrad in Applied Maths.)
-Outside of my professional work, I enjoy building games and applications using C++ and Vulkan, as well as building my own web apps often hosted on my own private server infrastructure.
+I'm a Software Developer with a foundation in Applied Mathematics and Computer Science, currently advancing my expertise through postgraduate studies and work as a Data Scientist.
 
-I'm fluent in two languages and learning a third. I hold dual citizenship in the United Kingdom and South Africa.
+My passion is systems programming, where I build performant engines and applications from the ground up using C++ and Vulkan. I complement this low-level work by architecting and deploying full-stack web applications.
 
-Earlier in my career, I worked as a web designer and social media marketer, which helped me learn about both clients, and project development.
+- Core Skills: C++, Vulkan/OpenGL, Python, Linux, DevOps, Full-Stack Web Development
+- Current Focus: High-performance graphics and real-time simulation.
+- Unique Perspective: My early career in web design and marketing gave me a user-centric approach to engineering and project development.
 
 
 ## 🌐 Socials:
