@@ -4,11 +4,10 @@ Software Engineer with a background in **Applied Mathematics and Computer Scienc
 
 I build **performance-critical and long-lived software**—primarily in C++—spanning graphics and simulation pipelines, internal tools, and supporting systems. I’m comfortable working close to the hardware, but I optimise for **correctness, clarity, and maintainability** over cleverness.
 
-I pair low-level engineering with practical backend and DevOps experience, taking systems from **design through build, packaging, and deployment**. My focus is on software that remains understandable and operable under real constraints, not just in ideal conditions.
+I pair low-level engineering with practical backend and DevOps experience, taking systems from **taking systems from design through build, packaging, deployment, and operation**. My focus is on software that remains understandable and operable under real constraints, not just in ideal conditions.
 
 **Focus:** systems programming, graphics & simulation, developer tooling  
 **Core skills:** C++, Python, Vulkan/OpenGL, Linux, system design, **CMake & Conan**, CI/CD, **containerised deployments (Docker)**  
-**Perspective:** strong bias toward clear interfaces, explicit trade-offs, and designs that hold up over time, scale, and change
 
 ---
 
@@ -52,5 +51,3 @@ I pair low-level engineering with practical backend and DevOps experience, takin
 ![](https://nirzak-streak-stats.vercel.app/?user=GrahamCHill&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamCHill&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GrahamCHill&limit=5&theme=dark&combine_all_yearly_contributions=true)
