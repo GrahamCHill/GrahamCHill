@@ -44,10 +44,3 @@ I pair low-level engineering with practical backend and DevOps experience, takin
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![Metal](https://img.shields.io/badge/Metal-999999?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=GrahamCHill&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GrahamCHill&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
