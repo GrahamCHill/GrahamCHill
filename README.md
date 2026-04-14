@@ -1,19 +1,10 @@
-## 💫 About Me
+## About Me
 
-Backend & Systems Engineer with a background in **Applied Mathematics and Computer Science**, specialising in **distributed systems, infrastructure reliability, and correctness-critical software**.
-
-I design backend systems that behave predictably under **real load, partial failure, and long-term operation**. My work centres on **explicit invariants, failure modelling, capacity planning, and post-incident redesign**, rather than patching symptoms.
-
-I routinely own systems end-to-end—from early design and trade-off analysis through production operation—establishing **clear interfaces, deterministic processing paths, and auditable state transitions**.
-
-I bring strong **systems programming depth in C++**, which informs how I reason about concurrency, latency, memory, and failure modes in distributed environments.
-
-**Focus:** distributed systems · infrastructure reliability · system design  
-**Strengths:** correctness & auditability · production ownership · failure modelling
+I build things.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Infrastructure & Distributed Systems
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
